@@ -1,3 +1,12 @@
+SIMPLE TODO APP WITH CRUD OPERATIONS TO THE REMOTE REST APT
+
+# Features
+* adding task
+* deleting task
+* updating task
+* drag and drop priority
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
